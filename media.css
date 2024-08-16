@@ -1,0 +1,28 @@
+@media screen and (max-width:1164px){
+    .offers {
+        width: 60%;
+    
+    }
+}
+    @media screen and (max-width:891px){
+        .offers {
+            width: 72%;
+        
+        }
+}
+@media screen and (max-width:1171px){
+    header {
+        width: 90%;
+       
+    }
+    .offers {
+        width: 82%;
+     
+    }
+    
+    .destination {
+        width: 55%;
+
+    }    
+    
+    }
